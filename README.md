@@ -63,54 +63,45 @@ Setelah selesai melakukan konfigurasi IP maka dapat dibuat Tree seperti berikut
 #### Frieren
 
 <p align="center">
-    <img src="
-https://i.ibb.co/NpjkYkJ/Frierien.png">
+    <img src="https://i.ibb.co/NpjkYkJ/Frierien.png">
 
 #### Flamme
 
 <p align="center">
-    <img src="
-https://i.ibb.co/kyKr20Z/Flamme.png">
+    <img src="https://i.ibb.co/kyKr20Z/Flamme.png">
 
 #### Fern
 
 <p align="center">
-    <img src="
-https://i.ibb.co/PCCMkWZ/Fern.png">
+    <img src="https://i.ibb.co/PCCMkWZ/Fern.png">
 
 #### Himmel
 
 <p align="center">
-    <img src="
-https://i.ibb.co/mChqm2V/Himmel.png">
+    <img src="https://i.ibb.co/mChqm2V/Himmel.png">
 
 #### Eisen
 
 <p align="center">
-    <img src="
-https://i.ibb.co/262TMrW/Eisen.png">
+    <img src="https://i.ibb.co/262TMrW/Eisen.png">
 
 <p align="center">
-    <img src="
-https://i.ibb.co/3ScdrkX/Eisen-2.png">
+    <img src="https://i.ibb.co/3ScdrkX/Eisen-2.png">
 
 #### Lawnie
 
 <p align="center">
-    <img src="
-https://i.ibb.co/NrFKV0G/Lawnie.png">
+    <img src="https://i.ibb.co/NrFKV0G/Lawnie.png">
 
-#### Lawnie
+#### Linie
 
 <p align="center">
-    <img src="
-https://i.ibb.co/bN8fTWZ/Linie.png">
+    <img src="https://i.ibb.co/bN8fTWZ/Linie.png">
 
 #### Lugner
 
 <p align="center">
-    <img src="
-https://i.ibb.co/sgv2ZjT/Lugner.png">
+    <img src="https://i.ibb.co/sgv2ZjT/Lugner.png">
 
 ## Test Ping CPT
 
