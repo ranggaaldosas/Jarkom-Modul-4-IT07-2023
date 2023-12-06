@@ -111,9 +111,13 @@ Setelah selesai melakukan konfigurasi IP maka dapat dibuat Tree seperti berikut
     <img src="https://i.ibb.co/jZqNBsd/Screenshot-9.png">
 
 ## CIDR
-## Topologi
+
+## Topologi CIDR
+
 menggunakan GNS3
 
 <p align="center">
     <img src="https://i.ibb.co/0yjDbCD/image.png">
 
+<p align="center">
+    <img src="https://i.ibb.co/9wxR3MM/CIDR-GNS3-IT07.png">
