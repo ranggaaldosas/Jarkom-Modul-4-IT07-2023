@@ -117,3 +117,9 @@ menggunakan GNS3
 <p align="center">
     <img src="https://i.ibb.co/0yjDbCD/image.png">
 
+## Menggabungkan Konfigurasi IP
+Menggabungkan konfigurasi IP berdasarkan IP yang kita dapatkan diatas
+
+<p align="center">
+    <img src="https://i.ibb.co/MSWcK5p/A2.png">
+
