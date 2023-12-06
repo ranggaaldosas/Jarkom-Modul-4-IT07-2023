@@ -121,3 +121,10 @@ menggunakan GNS3
 
 <p align="center">
     <img src="https://i.ibb.co/9wxR3MM/CIDR-GNS3-IT07.png">
+
+## subnet
+
+<p align="center">
+    <img src="https://i.ibb.co/BwdV4Zc/image.png">
+
+
