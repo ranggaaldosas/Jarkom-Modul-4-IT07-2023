@@ -20,7 +20,7 @@ Praktikum Modul 4 Jaringan Komputer - **IT07**
 menggunakan ```CPT``` untuk mengimplementasikan 
 
 <p align="center">
-    <img src="https://i.ibb.co/GnM5qkt/image.png">
+    <img src="https://i.ibb.co/ZJBgvng/vlsm-cpt-modul4.png">
 
 ## Rute
 
